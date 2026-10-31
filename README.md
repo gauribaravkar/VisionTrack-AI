@@ -1,4 +1,3 @@
-
 # 🎯 VisionTrack AI
 ### Real-Time Object Detection and Tracking System
 
@@ -93,19 +92,33 @@ The application will open in your browser.
 ## 📸 Application Screenshots
 
 ### 1. Homepage
-img width="1912" height="927" alt="dashboard" src="https://github.com/user-attachments/assets/63cafff4-f67d-403f-82fd-dad7aebe12e7" />
-
+<img width="1912" height="927" alt="dashboard" src="https://github.com/user-attachments/assets/63cafff4-f67d-403f-82fd-dad7aebe12e7" />
 
 ### 2. Video Upload
 <img width="1917" height="916" alt="video detection" src="https://github.com/user-attachments/assets/529af24c-51df-4c92-81fa-586397b86af6" />
 
-
 ### 3. Object Detection Output
 <img width="1892" height="906" alt="video detection 2" src="https://github.com/user-attachments/assets/540b2985-319b-4e7b-bbbf-df3e4b23b76a" />
 
-
-### 5. Webcam Detection
+### 4. Webcam Detection
 <img width="1891" height="891" alt="webcam detection" src="https://github.com/user-attachments/assets/62c176a8-c598-4111-b096-db0ab9052e62" />
+
+## ⚠️ Limitations
+
+- Real-time performance depends on hardware capabilities.
+- Webcam detection requires camera permission.
+- Processing large videos may take additional time.
+- CPU-based inference may be slower than GPU-based inference.
+- YOLOv8 model weights may need to be downloaded on first execution.
+
+## 🔮 Future Improvements
+
+- Support more YOLO models.
+- Improve detection accuracy.
+- Add object counting across video frames.
+- Export detection reports.
+- Deploy the application online.
+- Add support for more video formats.
 
 ## 🧠 How It Works
 
@@ -120,3 +133,7 @@ img width="1912" height="927" alt="dashboard" src="https://github.com/user-attac
 
 The objective of VisionTrack AI is to develop an interactive computer vision system that can detect and track multiple objects in videos and live webcam streams.
 
+**Project:** Object Detection and Tracking  
+**Category:** Artificial Intelligence / Computer Vision
+
+Built with ❤️ using Python, YOLOv8, and Streamlit.
