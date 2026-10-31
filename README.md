@@ -35,16 +35,7 @@ VisionTrack-AI/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-│
-├── screenshots/
-│   ├── 01_homepage.png
-│   ├── 02_video_upload.png
-│   ├── 03_video_detection.png
-│   ├── 04_live_analytics.png
-│   └── 05_webcam_detection.png
-│
-└── .streamlit/
-    └── config.toml
+
 ```
 
 ## ⚙️ Installation and Setup
